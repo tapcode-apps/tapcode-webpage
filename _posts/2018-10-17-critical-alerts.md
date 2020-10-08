@@ -29,7 +29,7 @@ After receiving the approval from Apple, you need to create 2 dedicated provisio
 
 Perform the same steps for your new distribution provisioning profile.
 
-<img class="aligncenter wp-image-16933 size-full" src="https://tapcode.co/wp-content/uploads/2018/10/provisioning_profile_critical_alerts.png" alt="" width="712" height="360" />
+![](assets/images/provisioning_profile_critical_alerts.png)
 
 ### Time to play with Xcode
 
