@@ -29,7 +29,7 @@ After receiving the approval from Apple, you need to create 2 dedicated provisio
 
 Perform the same steps for your new distribution provisioning profile.
 
-![](assets/images/provisioning_profile_critical_alerts.png)
+![Provisioning Profile](assets/images/provisioning_profile_critical_alerts.png)
 
 ### Time to play with Xcode
 
