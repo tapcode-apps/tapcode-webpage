@@ -421,6 +421,13 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+
+  a {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: $darkGray;
+    font-size: 14px;
+  }
 }
 
 body:after {
