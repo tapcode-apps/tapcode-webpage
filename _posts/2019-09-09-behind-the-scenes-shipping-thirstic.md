@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Behind the Scenes: Shipping Thirstic to the App Store"
+title:  "Behind the Scenes: Shipping Thirstic"
 categories: [Apps]
 excerpt: It was a hot and sunny weekend in Kelowna, British Columbia in July 2015. I've just moved to Canada with my girlfriend, after we both finally received our visas for the International Experience Canada program. I bought a used city bike, mainly for commuting to work, but on this weekend I wanted to explore the surrounding area of this beautiful small city.
 ---
