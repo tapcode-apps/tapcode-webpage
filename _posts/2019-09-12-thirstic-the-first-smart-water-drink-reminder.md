@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thirstic — The first smart water drink reminder
+title:  Thirstic - The first smart water drink reminder
 categories: [Apps]
 excerpt: Today, I'm very happy to announce that after almost 4 years, my new app Thirstic is available on the App Store! 🎉
 ---
