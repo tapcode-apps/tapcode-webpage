@@ -27,10 +27,14 @@ So, I was taking another break and I was looking at my burned calories on my App
 
 _**"For a very hot and active day like this, I definitely do not drink enough. But how much higher would be the recommended water intake in circumstances like this?"**_  
 
-<p align="center">
-    <a href="https://tapcode.co/images/kelowna_biking_3.jpg"><img src="https://tapcode.co/images/kelowna_biking_3_thumb.jpg" alt="Kelowna Biking 3"></a>
-    <a href="https://tapcode.co/images/kelowna_biking_4.jpg"><img src="https://tapcode.co/images/kelowna_biking_4_thumb.jpg" alt="Kelowna Biking 4"></a>
-</p>
+<div class="row">
+  <div class="column">
+    <a href="https://tapcode.co/images/kelowna_biking_3.jpg"><img src="https://tapcode.co/images/kelowna_biking_3_thumb.jpg" style="width:100%" alt="Kelowna Biking 3"></a>
+  </div>
+  <div class="column">
+    <a href="https://tapcode.co/images/kelowna_biking_4.jpg"><img src="https://tapcode.co/images/kelowna_biking_4_thumb.jpg" style="width:100%" alt="Kelowna Biking 4"></a>
+  </div>
+</div>
 
 The core idea of [Thirstic](https://thirstic.app) was born. In the following months I did some research around that topic. Actually, the answer to this question is complicated (as many answers 😉). Quite a few studies engaged with that question in the last decades, with contradicting results on the recommended daily water intake for an adult. However, all of them suggested higher water intakes with increasing activity and/or higher temperatures in the environment. I got obsessed with finding an answer to this problem. Based on all I've read, I developed my own formula for estimating water needs. The two main ingredients are burned calories and the environment temperature.
 
