@@ -13,16 +13,16 @@ It was a hot and sunny weekend in [Kelowna,](https://en.wikipedia.org/wiki/Kelow
     <a href="https://tapcode.co/images/kelowna_biking_2.jpg"><img src="https://tapcode.co/images/kelowna_biking_2_thumb.jpg" alt="Kelowna Biking 2"></a>
 </p>
 
-<p align="center">
-    <a href="https://tapcode.co/images/kelowna_biking_3.jpg"><img src="https://tapcode.co/images/kelowna_biking_3_thumb.jpg" alt="Kelowna Biking 3"></a>
-    <a href="https://tapcode.co/images/kelowna_biking_4.jpg"><img src="https://tapcode.co/images/kelowna_biking_4_thumb.jpg" alt="Kelowna Biking 4"></a>
-</p>
-
 ## I was wondering...
 
 So, I was taking another break and I was looking at my burned calories on my Apple Watch (Series 0 at that time! 😅). I definitely closed all of my rings on that day, I can tell you! While I was rationing my last water reserves, I was staring at the trees and thought:  
 
 _**"For a very hot and active day like this, I definitely do not drink enough. But how much higher would be the recommended water intake in circumstances like this?"**_  
+
+<p align="center">
+    <a href="https://tapcode.co/images/kelowna_biking_3.jpg"><img src="https://tapcode.co/images/kelowna_biking_3_thumb.jpg" alt="Kelowna Biking 3"></a>
+    <a href="https://tapcode.co/images/kelowna_biking_4.jpg"><img src="https://tapcode.co/images/kelowna_biking_4_thumb.jpg" alt="Kelowna Biking 4"></a>
+</p>
 
 The core idea of [Thirstic](https://thirstic.app) was born. In the following months I did some research around that topic. Actually, the answer to this question is complicated (as many answers 😉). Quite a few studies engaged with that question in the last decades, with contradicting results on the recommended daily water intake for an adult. However, all of them suggested higher water intakes with increasing activity and/or higher temperatures in the environment. I got obsessed with finding an answer to this problem. Based on all I've read, I developed my own formula for estimating water needs. The two main ingredients are burned calories and the environment temperature.
 
@@ -36,7 +36,9 @@ In August 2016, we moved back to Italy. I was busy starting my own small company
 
 ## Let's ship this
 
-End of 2018, I was almost certain that I will not ship this app. I felt too much time has passed, and many features that I wanted to have in the first version were still missing. I showed the prototype to a couple of friends at that time (special shoutouts to [Frederik](https://twitter.com/frederikRiedel), [Maximilian](https://www.facebook.com/maximilian.perkmann) and [Philip](https://twitter.com/PhilipGiuliani) 🙌). All of them, in addition to my girlfriend (that became my wife in the meantime ❤️), encouraged me to continue working on the app. So, I decided to restart that motivation engine and finish what I've started. In 2019, I mainly worked on the UI of the app. I've created all the necessary logic in the years before, but there was still a considerable effort left to call the app an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (just to sparkle in some buzzwords 😉). The full story of this journey in terms of git commits looks like this: [![](https://tapcode.co/wp-content/uploads/2019/09/thirstic_commits-2-1024x289.png)](https://tapcode.co/wp-content/uploads/2019/09/thirstic_commits-2.png)
+End of 2018, I was almost certain that I will not ship this app. I felt too much time has passed, and many features that I wanted to have in the first version were still missing. I showed the prototype to a couple of friends at that time (special shoutouts to [Frederik](https://twitter.com/frederikRiedel), [Maximilian](https://www.facebook.com/maximilian.perkmann) and [Philip](https://twitter.com/PhilipGiuliani) 🙌). All of them, in addition to my girlfriend (that became my wife in the meantime ❤️), encouraged me to continue working on the app. So, I decided to restart that motivation engine and finish what I've started. In 2019, I mainly worked on the UI of the app. I've created all the necessary logic in the years before, but there was still a considerable effort left to call the app an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (just to sparkle in some buzzwords 😉). The full story of this journey in terms of git commits looks like this: 
+
+[![Thirstic Commits](https://tapcode.co/images/thirstic_commits_thumb.png)](https://tapcode.co/images/thirstic_commits.png)
 
 ## Release 🎉
 
