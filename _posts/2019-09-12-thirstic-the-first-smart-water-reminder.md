@@ -3,6 +3,7 @@ layout: post
 title:  Thirstic - The first smart water reminder
 categories: [Apps]
 excerpt: Today, I'm very happy to announce that after almost 4 years, my new app Thirstic is available on the App Store! 🎉
+permalink: /2019/09/12/thirstic-the-first-smart-water-drink-reminder/
 ---
 
 Today, I'm very happy to announce that [after almost 4 years](https://tapcode.co/2019/09/09/behind-the-scenes-shipping-thirstic-to-the-app-store/), my new app [Thirstic](https://thirstic.app) is available on the [App Store](https://itunes.apple.com/app/id1471500028?&mt=8)! 🎉
