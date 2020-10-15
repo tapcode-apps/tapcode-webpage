@@ -7,7 +7,7 @@ excerpt: Critical Alerts is a new type of opt-in notifications in iOS 12 and wat
 
 Critical Alerts is a new type of opt-in notifications in iOS 12 and watchOS 5.0, that allows to bypass "Do Not Disturb" and the mute switch. Because of this, it's obvious that not all apps can send these new type of notifications.
 
-We recently integrated this new feature in [Safy](https://safy.bz), an app for volunteer firefighters in South Tyrol, Italy. This rural area has many secluded mountain villages and also a long history of volunteer work. Safy uses push notifications to inform volunteers about nearby emergencies (fires, floods, car accidents, ...).
+We recently integrated this new feature in [Safy](https://wwww.safy.bz), an app for volunteer firefighters in South Tyrol, Italy. This rural area has many secluded mountain villages and also a long history of volunteer work. Safy uses push notifications to inform volunteers about nearby emergencies (fires, floods, car accidents, ...).
 
 In this post we will explore which apps qualify for Critical Alerts and how you can implement them. All following examples are based on Xcode 10.0 and Swift 4.2.
 
