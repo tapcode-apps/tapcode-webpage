@@ -46,9 +46,7 @@ In August 2016, we moved back to Italy. I was busy starting my own small company
 
 I showed the prototype to a couple of friends at that time (special shoutouts to [Frederik](https://twitter.com/frederikRiedel), [Maximilian](https://www.facebook.com/maximilian.perkmann) and [Philip](https://twitter.com/PhilipGiuliani) 🙌). All of them, in addition to my girlfriend (that became my wife in the meantime ❤️), encouraged me to continue working on the app. So, I decided to restart that motivation engine and finish what I've started. In 2019, I mainly worked on the UI of the app. I've created all the necessary logic in the years before, but there was still a considerable effort left to call the app an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (just to sparkle in some buzzwords 😉). The full story of this journey in terms of git commits looks like this: 
 
-<p align="center">
-    <a href="https://tapcode.co/images/thirstic_commits.png"><img src="https://tapcode.co/images/thirstic_commits_thumb.png" alt="Thirstic Commits History"></a>
-</p>
+<a href="https://tapcode.co/images/thirstic_commits.png"><img src="https://tapcode.co/images/thirstic_commits_thumb.png" style="width:100%;" alt="Thirstic Commits History"></a>
 
 ## Release 🎉
 
