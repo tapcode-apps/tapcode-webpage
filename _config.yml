@@ -45,8 +45,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://tapcode-apps.github.io/tapcode-webpage
-enforce_ssl: https://tapcode-apps.github.io/tapcode-webpage
+url: http://tapcode.co
+enforce_ssl: https://tapcode.co
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
