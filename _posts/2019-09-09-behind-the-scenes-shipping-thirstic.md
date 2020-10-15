@@ -6,6 +6,8 @@ excerpt: It was a hot and sunny weekend in Kelowna, British Columbia in July 20
 permalink: /2019/09/09/behind-the-scenes-shipping-thirstic-to-the-app-store/
 ---
 
+<a href="https://tapcode.co/images/kelowna_thumb.jpg"><img src="https://tapcode.co/images/kelowna.jpg" style="width:100%;" alt="Kelowna Lakeview"></a>
+
 It was a hot and sunny weekend in [Kelowna,](https://en.wikipedia.org/wiki/Kelowna) British Columbia in July 2015. I've just moved to Canada with my girlfriend, after we both finally received our visas for the [International Experience Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html) program. I bought a used city bike, mainly for commuting to work, but on this weekend I wanted to explore the surrounding area of this beautiful small city. Most people don't think at hot, sunny lakeside towns when they think about Canada. Kelowna, and the other cities in the Okanagan Valley, are just that! In the summer, daytime temperatures often exceed 32 °C (90 °F) and on extreme days they go up to 40 °C (104 °F). Turns out that, even smaller cities can be quite large (in terms of area) in Canada. 😆
 
 I pushed my city bike through streets and over hills. After a couple of hours I found myself on a path through a forest. My crappy bike was obviously not made for a track like this and the sun was merciless burning on my back. What made things worse, was that I only had one bottle of water with me, which was already almost empty when I arrived in the forest.
