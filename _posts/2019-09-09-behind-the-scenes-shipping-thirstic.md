@@ -12,10 +12,14 @@ It was a hot and sunny weekend in [Kelowna,](https://en.wikipedia.org/wiki/Kelow
 
 I pushed my city bike through streets and over hills. After a couple of hours I found myself on a path through a forest. My crappy bike was obviously not made for a track like this and the sun was merciless burning on my back. What made things worse, was that I only had one bottle of water with me, which was already almost empty when I arrived in the forest.
 
-<p align="center">
-    <a href="https://tapcode.co/images/kelowna_biking_1.jpg"><img src="https://tapcode.co/images/kelowna_biking_1_thumb.jpg" alt="Kelowna Biking 1"></a>
-    <a href="https://tapcode.co/images/kelowna_biking_2.jpg"><img src="https://tapcode.co/images/kelowna_biking_2_thumb.jpg" alt="Kelowna Biking 2"></a>
-</p>
+<div class="row">
+  <div class="column">
+    <a href="https://tapcode.co/images/kelowna_biking_1.jpg"><img src="https://tapcode.co/images/kelowna_biking_1_thumb.jpg" style="width:100%" alt="Kelowna Biking 1"></a>
+  </div>
+  <div class="column">
+    <a href="https://tapcode.co/images/kelowna_biking_2.jpg"><img src="https://tapcode.co/images/kelowna_biking_2_thumb.jpg" style="width:100%" alt="Kelowna Biking 2"></a>
+  </div>
+</div>
 
 ## I was wondering...
 
