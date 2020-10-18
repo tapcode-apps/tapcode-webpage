@@ -58,7 +58,9 @@ func requestAuthorization(completion: ((Bool, Error?) -&gt; Void)?) {
 
 The third step is a bit weird, because Xcode 10.0 does not (yet?) display Critical Alerts like all other optional capabilities under the *Capabilities* tab. Therefore, you need to manually edit your *Entitlements* file and add the 
 
-```com.apple.developer.usernotifications.critical-alerts``` 
+```
+com.apple.developer.usernotifications.critical-alerts
+``` 
 
 key with boolean value *YES* to it.
 
