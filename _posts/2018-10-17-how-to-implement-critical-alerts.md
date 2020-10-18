@@ -2,7 +2,7 @@
 layout: post
 title:  How to implement Critical Alerts
 categories: [Development]
-excerpt: Critical Alerts is a new type of opt-in notifications in iOS 12 and watchOS 5.0, that allows to bypass "Do Not Disturb" and the mute switch. This blog post explores how to implement it.
+excerpt: Critical Alerts is a new type of opt-in notifications in iOS 12 and watchOS 5.0, that allows to bypass "Do Not Disturb" and the mute switch. This blog post explores how to implement it with a special entitlement that you need to request from Apple.
 permalink: /2018/10/17/how-to-implement-critical-alerts-in-ios-12/
 ---
 
