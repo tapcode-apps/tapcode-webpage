@@ -6,11 +6,7 @@ excerpt: Critical Alerts is a new type of opt-in notifications in iOS 12 and wat
 permalink: /2018/10/17/how-to-implement-critical-alerts-in-ios-12/
 ---
 
-<div class="row">
-  <div class="column">
-    <a href="https://tapcode.co/images/critical_alerts_ios12.png"><img src="https://tapcode.co/images/critical_alerts_ios12_thumb.png" style="width:50%;" alt="Criticals alerts in Safy"></a>
-  </div>
-</div>
+<a href="https://tapcode.co/images/critical_alerts_ios12.jpg"><img src="https://tapcode.co/images/critical_alerts_ios12_thumb.jpg" style="width:100%;" alt="Criticals alerts in Safy"></a>
 
 Critical Alerts is a new type of opt-in notifications in iOS 12 and watchOS 5.0, that allows to bypass "Do Not Disturb" and the mute switch. Because of this, it's obvious that not all apps can send these new type of notifications.
 
