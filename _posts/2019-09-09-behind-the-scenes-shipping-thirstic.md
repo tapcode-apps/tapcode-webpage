@@ -25,7 +25,7 @@ I pushed my city bike through streets and over hills. After a couple of hours I 
 
 So, I was taking another break and I was looking at my burned calories on my Apple Watch (Series 0 at that time! 😅). I definitely closed all of my rings on that day, I can tell you! While I was rationing my last water reserves, I was staring at the trees and thought:  
 
-_**"For a very hot and active day like this, I definitely do not drink enough. But how much higher would be the recommended water intake in circumstances like this?"**_  
+_**"For a very hot and active day like this, I definitely do not drink enough. What would be my recommended water intake in circumstances like this?"**_  
 
 <div class="row">
   <div class="column">
