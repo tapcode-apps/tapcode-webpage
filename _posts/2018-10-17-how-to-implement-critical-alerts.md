@@ -12,11 +12,11 @@ We recently integrated this new feature in [Safy](https://wwww.safy.bz), an app 
 
 In this post we will explore which apps qualify for Critical Alerts and how you can implement them. All following examples are based on Xcode 10.0 and Swift 4.2.
 
-### Critical Alerts are not meant for every app
+## Critical Alerts are not meant for every app
 
 Apple already [denies](https://developer.apple.com/app-store/review/guidelines/#apple-sites-and-services) sending marketing information via push (and we also know some apps break this rule), so I guess, the last what they want is another, much more intrusive way to annoy users. Because of this, these type of notification is limited for medical or health related apps, public safety or special security apps. They should also only be used for *critical events*, which required the *immediate* attention of the user. If you develop a game, you most certainly do not need this! 😅
 
-### Ask for permission
+## Ask for permission
 
 As a first step, you need to request a special entitlement for your app. You should do this via a [dedicated form on Apple's developer web page](https://developer.apple.com/contact/request/notifications-critical-alerts-entitlement/).
 
@@ -24,15 +24,15 @@ In the form, you're required to explain what your app is doing and how you plan 
 
 In our case, we described our app and emphasized that the emergencies we are broadcasting are usually very time sensitive. It is critical that firefighters are informed as soon as possible, every minute counts in some situations. After 3 weeks waiting time, we received a positive answer from Apple via email!
 
-### New provisioning profiles
+## New provisioning profiles
 
 After receiving the approval from Apple, you need to create 2 dedicated provisioning profiles (development and distribution) that include the additional entitlement. Head to the *Certificates, Identifiers & Profiles* section of your [developer account](https://developer.apple.com/account) and create a new development provisioning profile for your app. As last step in the process, you should see a screen that allows you to add additional entitlements. Select *Critical Alerts* from the dropdown and you're good to go!
 
 Perform the same steps for your new distribution provisioning profile.
 
-![Provisioning Profile](../images/provisioning_profile_critical_alerts.png)
+<a href="https://tapcode.co/images/provisioning_profile_critical_alerts.png"><img src="https://tapcode.co/images/provisioning_profile_critical_alerts.png" style="width:100%;" alt="Provisioning profiles with critical alerts"></a>
 
-### Time to play with Xcode
+## Time to play with Xcode
 
 Now it's time to dive into the code part. As a first step, you need to switch off *Automatic Code Signing* (if you're using it) and select the provisioning profiles that you've just created manually under the *Signing (Debug)* and *Signing (Release)* sections in your target.
 
@@ -60,7 +60,7 @@ The critical option, triggers a new system alert that asks the user to enable Cr
 
 As a future improvement, I would like to see this alert combined with the default notification alert. Showing two permission alerts in a row, just to enable all supported notification types, can be confusing to the user. I hope Apple changes this in a future iOS version.
 
-### Let's try this out
+## Let's try this out
 As a last step, you need modify the APS payload when sending push notifications from your server. If you want a notification to be critical, add the following object for the sound key in the APS payload:
 
 ```json
