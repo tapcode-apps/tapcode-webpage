@@ -80,3 +80,6 @@ As a last step, you need modify the APS payload when sending push notifications 
 You need to set 1 for the critical key, add a custom sound file (.aiff format) and specify the device volume (values 0.0 to 1.0), where 1.0 means full volume.  More information about these new keys can be found in Apple's [Generating a Remote Notification](https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/generating_a_remote_notification?language=swift) article.
 
 Please keep in mind that, even if your app can send Critical Alerts, not all notifications need to be necessarily critical. Use your new power wisely! 🧙‍♂️
+
+### Enjoyed this post?
+If this blog post helped you and you would like to support my work, please check out my apps [Thirstic](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) and [NetSnips](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242)! 🍻
