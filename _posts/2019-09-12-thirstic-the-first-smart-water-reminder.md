@@ -6,15 +6,6 @@ excerpt: Today, I'm very happy to announce that after almost 4 years, my new app
 permalink: /2019/09/12/thirstic-the-first-smart-water-drink-reminder/
 ---
 
-<div class="row">
-  <div class="column">
-    <a href="https://tapcode.co/images/thirstic_today_screen_1.png"><img src="https://tapcode.co/images/thirstic_today_screen_1_thumb.png" style="width:100%" alt="Kelowna Biking 1"></a>
-  </div>
-  <div class="column">
-    <a href="https://tapcode.co/images/thirstic_today_screen_1.png"><img src="https://tapcode.co/images/thirstic_today_screen_1_thumb.png" style="width:100%" alt="Kelowna Biking 2"></a>
-  </div>
-</div>
-
 Today, I'm very happy to announce that [after almost 4 years](https://tapcode.co/2019/09/09/behind-the-scenes-shipping-thirstic-to-the-app-store/), my new app [Thirstic](https://thirstic.app) is available on the [App Store](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028)! 🎉 
 
 Thirstic is the first smart water drink reminder that **adapts to your daily activity and the current weather conditions**. 
@@ -38,3 +29,12 @@ Privacy and data security is a key concept of Thirstic. The analysis of your fit
 Thirstic is a **free** download on the [App Store](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) and all basic features can be used without any costs. More advanced features (like access to weather data) require an in-app subscription or an one-time purchase with no expiry.
 
 If you would like to know the story behind this app and why I developed it, you can read more in my [Behind the Scenes: Shipping Thirstic](https://tapcode.co/2019/09/09/behind-the-scenes-shipping-thirstic-to-the-app-store/) blog post. So, all that's left to say for me is: Don't forget to have some water! 🏃🏻‍♂️☀️
+
+<div class="row">
+  <div class="column">
+    <a href="https://tapcode.co/images/thirstic_today_screen_1.png"><img src="https://tapcode.co/images/thirstic_today_screen_1_thumb.png" style="width:100%" alt="Kelowna Biking 1"></a>
+  </div>
+  <div class="column">
+    <a href="https://tapcode.co/images/thirstic_today_screen_2.png"><img src="https://tapcode.co/images/thirstic_today_screen_2_thumb.png" style="width:100%" alt="Kelowna Biking 2"></a>
+  </div>
+</div>
