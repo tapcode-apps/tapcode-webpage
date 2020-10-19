@@ -8,7 +8,7 @@ permalink: /about/
 
 Tapcode is a small, privately-held company located in the middle of the beautiful Alps in South Tyrol, Italy.
 
-<img src="https://tapcode.co/images/johannes_erschbamer.jpg" style="float: left; margin: 10px 15px 5px 0px; width:25%;"  alt="Johannes Erschbamer">
+<img src="https://tapcode.co/images/johannes_erschbamer.jpg" style="float: left; margin: 7px 15px 5px 0px; width:25%;"  alt="Johannes Erschbamer">
 
 Johannes is passionated about mobile and wearable devices, delighting user interfaces and best practices in software development. He loves to build things people love.
 
