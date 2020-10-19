@@ -6,7 +6,7 @@ permalink: /about/
 
 <a href="https://tapcode.co/images/tapcode_location.jpg"><img src="https://tapcode.co/images/tapcode_location_thumb.jpg" style="width:100%;" alt="Tapcode location"></a>
 
-Tapcode is a small, privately-held company located in the middle of the beautiful Alps in South Tyrol, Italy.
+Tapcode is a small company, located in the middle of the beautiful Alps in South Tyrol, Italy. It was founded by Johannes Erschbamer in 2016.
 
 <img src="https://tapcode.co/images/johannes_erschbamer.jpg" style="float: left; margin: 7px 15px 5px 0px; width:25%;"  alt="Johannes Erschbamer">
 
