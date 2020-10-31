@@ -75,11 +75,11 @@ As a last step, you need modify the APS payload when sending push notifications 
 {  
     "aps":{  
         "alert": "This is a Critical Alert!",
-        "badge":1,
-        "sound":{  
-          "critical":1,
-          "name":"your_custom_sound.aiff",
-          "volume":1.0
+        "badge": 1,
+        "sound": {  
+          "critical": 1,
+          "name": "your_custom_sound.aiff",
+          "volume": 1.0
         }
      }
 }
