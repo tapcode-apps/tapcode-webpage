@@ -41,7 +41,7 @@ Now it's time to dive into the code part. As a first step, you need to switch of
 Second, you need to request the user permission for Critical Alerts. Apple added a [new key]("https://developer.apple.com/documentation/usernotifications/unnotificationsettings/2963116-criticalalertsetting?language=swift") for this in the *UNAuthorizationOptions* enum. If you're still supporting iOS 11.x or older, don't forget to check if this option is available:
 
 ```swift
-func requestAuthorization(completion: ((Bool, Error?) -&gt; Void)?) {
+func requestAuthorization(completion: ((Bool, Error?) -> Void)?) {
     let options: UNAuthorizationOptions
         
     if #available(iOS 12.0, *) {
