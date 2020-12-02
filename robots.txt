@@ -2,6 +2,6 @@
 layout: none
 ---
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
-Disallow: {{ site.url }}/imprint/
-Disallow: {{ site.url }}/terms-privacy-policy/
+Sitemap: https://tapcode.co/sitemap.xml
+Disallow: /imprint$
+Disallow: /terms-privacy-policy$
