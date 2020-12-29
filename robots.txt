@@ -1,7 +1,4 @@
----
-layout: none
----
 User-agent: *
 Sitemap: https://tapcode.co/sitemap.xml
-Disallow: /imprint$
-Disallow: /terms-privacy-policy$
+Disallow: /imprint
+Disallow: /terms-privacy-policy
