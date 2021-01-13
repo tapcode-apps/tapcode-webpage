@@ -2,6 +2,7 @@
 layout: page
 title: NetSnips Privacy Policy
 permalink: /netsnips-privacy-policy/
+robots: noindex
 ---
 
 [NetSnips](https://itunes.apple.com/us/app/netsnips/id507888242?mt=8) does *not* collect or store any personal information, except for the following data that is indispensable for the functionality of the app and exclusively stored *on your device*:

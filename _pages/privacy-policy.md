@@ -2,6 +2,7 @@
 layout: page
 title: Terms & Privacy Policy
 permalink: /terms-privacy-policy/
+robots: noindex
 ---
 
 By using [tapcode.co](https://tapcode.co), you agree to this terms and privacy policy. This policy is effective as of 16 August 2016.

@@ -2,3 +2,4 @@ User-agent: *
 Sitemap: https://tapcode.co/sitemap.xml
 Disallow: /imprint
 Disallow: /terms-privacy-policy
+Disallow: /netsnips-privacy-policy
