@@ -2,7 +2,7 @@
 layout: post
 title:  NetSnips changed business model
 categories: [Apps]
-excerpt: My app [NetSnips](https://apps.apple.com/app/id507888242) will soon be 10 years in the App Store - that's quite an age for an app these days. Time to take a step back and re-evaluate its business model.
+excerpt: My app NetSnips will soon be 10 years in the App Store - that's quite an age for an app these days. Time to take a step back and re-evaluate its business model.
 permalink: /2021/12/30/netsnips-changed-business-model/
 ---
 
