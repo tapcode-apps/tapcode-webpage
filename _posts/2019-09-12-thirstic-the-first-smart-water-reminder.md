@@ -2,7 +2,7 @@
 layout: post
 title:  Thirstic - The first smart water reminder
 categories: [Apps]
-excerpt: Today, I'm very happy to announce that after almost 4 years, my new app Thirstic is available on the App Store! 🎉 Thirstic is the first smart water reminder that adapts to your daily activity and the current weather conditions.
+excerpt: Today, I'm very happy to announce that after almost 4 years, my new app [Thirstic](https://thirstic.app) is available on the App Store! Thirstic is the first smart water reminder that adapts to your daily activity and the current weather conditions.
 permalink: /2019/09/12/thirstic-the-first-smart-water-drink-reminder/
 ---
 
